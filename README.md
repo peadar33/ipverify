@@ -17,7 +17,7 @@ Credentials: username: abc pwd: 123
 Is on whitelist
 {
     "ip": "24.98.94.55",
-	  "countryWhiteList": ["Ireland", 
+    "countryWhiteList": ["Ireland", 
     "Canada", 
     "United States", 
     "United Kingdom"]
@@ -25,7 +25,7 @@ Is on whitelist
 Is not on whitelist
 {
     "ip": "24.98.94.55",
-	  "countryWhiteList": ["Ireland", 
+    "countryWhiteList": ["Ireland", 
     "Canada", 
     "United States", 
     "United Kingdom"]
@@ -33,7 +33,7 @@ Is not on whitelist
 bad IP
 {
     "ip": "0.98.94.55",
-	  "countryWhiteList": ["Ireland", 
+    "countryWhiteList": ["Ireland", 
     "Canada", 
     "United States", 
     "United Kingdom"]
